@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.tasks {
+    width: 50%;
+}
+
+th {
+    border: 1px solid;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+    border: 1px solid;
+  }
+
+div {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin: auto;
+    border: 1px solid;
+    width: 450px;
+}
+
+a {
+    text-decoration: none;
+}
+
+form {
+    margin-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 24px;
+    width: 450px;
+    height: 80px;
+}
+
+#content {
+    height: 24px;
+    width: 400px;
+    font-size: 20px;
+}
+
+input {
+    height: 30px;
+    width: 80px;
+    margin-top: 8px;
+}
+
+.form {
+    margin-top: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 24px;
+    width: 450px;
+    height: 80px;
+}
